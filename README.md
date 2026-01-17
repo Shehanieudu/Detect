@@ -25,7 +25,7 @@ Suivez ces étapes pour faire fonctionner la webapp sur votre ordinateur :
 1. Cliquez sur le bouton vert "**Code**" en haut de cette page
 2. Sélectionnez "**Download ZIP**"
 3. Décompressez le dossier `.zip` à l'emplacement de votre choix
-4. Récupérer le modèle à partir de ce lien, puis l’ajouter au dossier décompressé : ```https://drive.google.com/drive/folders/1KuUZVL8Pmh7N3PR7EHH6l6szzE36-LVe?usp=sharing```
+4. Récupérer le modèle à partir de ce lien, puis l’ajouter au dossier décompressé : [Lien modèle](https://drive.google.com/drive/folders/1KuUZVL8Pmh7N3PR7EHH6l6szzE36-LVe?usp=sharing)
    
 ## Étape 2 : Installer Python (Version spécifique)
 1. Ce projet nécessite "**Python 3.7.12**". Téléchargez-le ici : [Python 3.7.12](https://www.python.org/downloads/release/python-3712/)
