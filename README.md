@@ -4,7 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 <p align="center">
-  <img src="images/preview.png" alt="Aperçu de l'application" width="600"/>
+  <img src="images/Logo_Projet5D3TECT.png" alt="Aperçu de l'application" width="300"/>
 </p>
 
 ---
