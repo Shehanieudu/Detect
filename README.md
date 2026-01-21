@@ -25,48 +25,48 @@ Follow these steps to run the webapp on your computer :
 1. Click the green "Code" button at the top of this page
 2. Select "**Download ZIP**"
 3. Extract the `.zip` folder to the location of your choice
-4. Récupérer le modèle à partir de ce lien, puis l’ajouter au dossier décompressé : [Lien modèle](https://drive.google.com/drive/folders/1KuUZVL8Pmh7N3PR7EHH6l6szzE36-LVe?usp=sharing)
+4. Download the model from the following link and add it to the extracted folder : [Lien modèle](https://drive.google.com/drive/folders/1KuUZVL8Pmh7N3PR7EHH6l6szzE36-LVe?usp=sharing)
    
-## Étape 2 : Installer Python (Version spécifique)
-1. Ce projet nécessite "**Python 3.7.12**". Téléchargez-le ici : [Python 3.7.12](https://www.python.org/downloads/release/python-3712/)
-2. Lancez l'installation
-3. **Important :** Cochez la case **"Add Python 3.7 to PATH"** avant de cliquer sur "**Install Now**"
+## Step 2: Install Python (Specific Version)
+1. This project requires "**Python 3.7.12**". Download it here : [Python 3.7.12](https://www.python.org/downloads/release/python-3712/)
+2. Run the installer
+3. **Important :** Check the box **"Add Python 3.7 to PATH"** before clicking "**Install Now**"
    
-## Étape 3 : Préparer l'environnement
-Ouvrez votre terminal (Invite de commandes sur Windows ou Terminal sur macOS/Linux) et déplacez-vous dans le dossier du projet :
+## Step 3: Prepare the Environment
+Open your terminal (Command Prompt on Windows or Terminal on macOS/Linux) and navigate to the project folder:
 
-1. Installation de Streamlit : 
+1. Install Streamlit: 
 ```pip install streamlit ```
 
 
-2. Installation des autres bibliothèques requises :
+2.Install the other required libraries:
 ```pip install -r requirements.txt```
 
-## Utilisation
-Une fois l'installation terminée, vous pouvez lancer l'application avec la commande suivante tout en restant dans le dossier du projet :
+## Usage
+Once the installation is complete, you can launch the application by running the following command while staying in the project directory:
 ```streamlit run app.py```
 
 ---
 
-## Technologies utilisées
+## Technologies Used
 
-Le projet s'appuie sur un écosystème Python moderne pour garantir rapidité et interactivité :
+The project relies on a modern Python ecosystem to ensure speed and interactivity:
 
-* **Langage :** [Python 3.7.12](https://www.python.org/) 
-* **Interface Web :** [Streamlit](https://streamlit.io/) (Framework pour applications Data)
-* **Gestion des données :** Pandas & NumPy (Manipulation de tableaux et calculs)
-* **Modèles & Détection :** Scikit-Learn / OpenCV (Analyse d'images ou modèles prédictifs)
+* **Language :** [Python 3.7.12](https://www.python.org/) 
+* **Web Interface :** [Streamlit](https://streamlit.io/) (Data application framework)
+* **Data Handling :** Pandas & NumPy (Array manipulation and computations)
+* **Models & Detection :** Scikit-Learn / OpenCV (Image analysis or predictive models)
 
 ---
 
-## Structure du projet
+## Project Structure
 
-L'organisation des fichiers permet une maintenance simplifiée :
+The file organization allows for simplified maintenance:
 
 ```text
 📂 Detect
-├─ models                  # À récupérer sur le drive
-├─ images                  # Dossier avec les images du projet
-├── app.py                 # Point d'entrée principal de l'application
-├── requirements.txt       # Liste des dépendances à installer
-└── README.md              # Documentation du projet
+├─ models                  # To be retrieved from the drive
+├─ images                  # Folder containing project images
+├── app.py                 # Main entry point of the application
+├── requirements.txt       # List of dependencies to install
+└── README.md              # Project documentation
