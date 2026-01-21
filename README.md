@@ -1,4 +1,4 @@
-# Detect - La puissance de l’IA au service de vos organoïdes cérébraux
+# D3TECT - The power of AI at the service of your cerebral organoids.
 
 [![Python](https://img.shields.io/badge/Python-3.7.12-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3712/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -9,22 +9,22 @@
 
 ---
 
-## Notre solution
+## Our solution
 
-D3TECT est une application web intelligente conçue pour faciliter le suivi de la croissance des organoïdes cérébraux. Grâce à un détourage automatique fiable et rapide, elle permet d’analyser un grand nombre d’images tout en conservant une excellente précision. 
+D3TECT is an intelligent web application designed to streamline the growth tracking of cerebral organoids. Thanks to its fast and reliable automated segmentation, it enables the analysis of large datasets while maintaining exceptional precision.
 
-Notre solution simplifie l’analyse visuelle et quantitative au fil du temps, offrant une solution efficace, cohérente et reproductible pour accélérer la recherche et se concentrer sur l’innovation.
+Our solution simplifies visual and quantitative analysis over time, providing an efficient, consistent, and reproducible workflow to accelerate research and allow you to focus on innovation.
 
 ---
 
 ## Installation de D3TECT 
 
-Suivez ces étapes pour faire fonctionner la webapp sur votre ordinateur :
+Follow these steps to run the webapp on your computer :
 
-## Étape 1 : Récupérer le projet
-1. Cliquez sur le bouton vert "**Code**" en haut de cette page
-2. Sélectionnez "**Download ZIP**"
-3. Décompressez le dossier `.zip` à l'emplacement de votre choix
+## Step 1: Retrieve the Project
+1. Click the green "Code" button at the top of this page
+2. Select "**Download ZIP**"
+3. Extract the `.zip` folder to the location of your choice
 4. Récupérer le modèle à partir de ce lien, puis l’ajouter au dossier décompressé : [Lien modèle](https://drive.google.com/drive/folders/1KuUZVL8Pmh7N3PR7EHH6l6szzE36-LVe?usp=sharing)
    
 ## Étape 2 : Installer Python (Version spécifique)
