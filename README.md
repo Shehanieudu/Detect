@@ -32,12 +32,12 @@ Follow these steps to run the webapp on your computer :
 We use **Anaconda Navigator** to easily create a secure space for the project.
 
 1.  Install Anaconda: If you haven't already, download and install [Anaconda](https://www.anaconda.com/download)
-2.  **Open Anaconda Navigator** from your applications menu.
-3.  Click on the **"Environments"** tab on the left sidebar.
-4.  Click the **"Create"** button (at the bottom).
+2.  Open Anaconda Navigator from your applications menu.
+3.  Click on the "Environments" tab on the left sidebar.
+4.  Click the Create button (at the bottom).
 5.  **Configure the popup window:**
-    * **Name:** project_env
-    * **Packages:** Check "Python" and select version **3.7** from the dropdown list.
+    * Name: project_env
+    * Packages: Check "Python" and select version **3.7** from the dropdown list.
 6.  Click **"Create"** and wait for the process to finish.
 
 ## Step 3: Configure Visual Studio Code
@@ -65,8 +65,7 @@ Open your terminal (Command Prompt on Windows or Terminal on macOS/Linux) and na
 1. Install Streamlit: 
 ```pip install streamlit ```
 
-
-2.Install the other required libraries:
+2. Install the other required libraries:
 ```pip install -r requirements.txt```
 
 ## Usage
