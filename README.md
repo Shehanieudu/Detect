@@ -86,7 +86,7 @@ The project relies on a modern Python ecosystem to ensure speed and interactivit
 
 ---
 
-## 🖥️ Hardware Compatibility
+## 🖥️ Hardware 
 
 We have successfully tested the project on the following setups:
 
