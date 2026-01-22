@@ -44,15 +44,16 @@ We use **Anaconda Navigator** to easily create a secure space for the project.
 
 Now, we need to tell VS Code to use the environment you just created.
 
-1.  **Open the Project:**
+1.  Install VS Code : If you haven't already, download and install [VS Code](https://code.visualstudio.com/)
+2.  **Open the Project:**
     Launch VS Code and open the folder you extracted in Step 1 (**File > Open Folder...**).
 
-2.  **Select the Interpreter:**
+3.  **Select the Interpreter:**
     * Open the Command Palette: Press Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (macOS).
     * Type and select: Python: Select Interpreter.
     * In the list, find and click on project_env (it should be labeled as 'Conda').
 
-3.  **Open the Terminal:**
+4.  **Open the Terminal:**
     * Go to **Terminal > New Terminal** in the top menu.
     * **Check:** You should see (project_env) appear at the beginning of the command line in the terminal panel below.
 
@@ -84,6 +85,16 @@ The project relies on a modern Python ecosystem to ensure speed and interactivit
 * **Models & Detection :** Scikit-Learn / OpenCV (Image analysis or predictive models)
 
 ---
+
+## 🖥️ Hardware Compatibility
+
+We have successfully tested the project on the following setups:
+
+| Configuration | CPU | GPU | RAM | 
+| :--- | :--- | :--- | :--- | 
+| **Workstation** | i9-13900HX | NVIDIA RTX 4090 (16GB) | 32 GB |
+| **Desktop A** | i5-12600KF | AMD RX 7800 XT (16GB) | 32 GB (DDR5) | 
+| **Desktop B** | Ryzen 5 3600 | AMD RX 580 (8GB) | 16 GB |
 
 ## Project Structure
 
